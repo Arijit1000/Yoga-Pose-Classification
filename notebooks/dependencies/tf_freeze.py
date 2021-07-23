@@ -2,8 +2,7 @@
 Tensorflow graph freezer
 Converts Tensorflow trained models in .pb
 
-Code adapted from:
-https://gist.github.com/morgangiraud/249505f540a5e53a48b0c1a869d370bf#file-medium-tffreeze-1-py
+
 """
 
 import os, argparse

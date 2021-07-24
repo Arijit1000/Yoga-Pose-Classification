@@ -1,0 +1,6 @@
+>pip install --upgrade youtube-dl
+>pip install --upgrade ffmpeg
+
+>python parse_yt_times.py input.txt > script.sh
+or if videos have already been downloaded
+>python parse_yt_times.py input.txt|fgrep -v youtube > script.sh

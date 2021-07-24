@@ -1,0 +1,14 @@
+String representing pose
+https:/....youtube link
+[number]:[number] - [number]:[number] representing start and end times
+same as above, n times
+
+
+
+Notes:
+Empty lines are ignored
+Lines which start with http are youtube links
+Lines which start with numbers contain times
+Other lines are considered pose names
+
+
